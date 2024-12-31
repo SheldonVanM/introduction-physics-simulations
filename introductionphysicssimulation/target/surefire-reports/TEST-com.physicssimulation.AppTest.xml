@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.physicssimulation.AppTest" time="0.028" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.physicssimulation.AppTest" time="0.027" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CA"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.1.12-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\sheld\AppData\Local\Temp\surefire11246931998981421934\surefirebooter13951802570083918655.jar C:\Users\sheld\AppData\Local\Temp\surefire11246931998981421934 2024-12-30T06-26-57_359-jvmRun1 surefire10043454928125104641tmp surefire_0515100486692694776tmp"/>
+    <property name="sun.java.command" value="C:\Users\sheld\AppData\Local\Temp\surefire3008819210506000648\surefirebooter9271411690252911263.jar C:\Users\sheld\AppData\Local\Temp\surefire3008819210506000648 2024-12-31T00-43-12_081-jvmRun1 surefire7961014477496175670tmp surefire_05079595349499396476tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\sheld\Documents\Coding\Projects\ComputerSimulations\introduction-physics-simulations\introductionphysicssimulation\target\test-classes;C:\Users\sheld\Documents\Coding\Projects\ComputerSimulations\introduction-physics-simulations\introductionphysicssimulation\target\classes;C:\Users\sheld\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\sheld\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sheld\.m2\repository\org\jfree\jfreechart\1.5.3\jfreechart-1.5.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\sheld\AppData\Local\Temp\surefire11246931998981421934\surefirebooter13951802570083918655.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\sheld\AppData\Local\Temp\surefire3008819210506000648\surefirebooter9271411690252911263.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.1+12"/>
@@ -50,12 +50,12 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.1.12-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Eclipse Adoptium\jdk-17.0.1.12-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\Program Files\gs\gs10.03.0\bin;C:\Ruby32-x64\bin;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.3.3\bin;C:\Users\sheld\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\sheld\AppData\Local\Programs\Python\Python310\;C:\Users\sheld\AppData\Local\Microsoft\WindowsApps;C:\Users\sheld\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.1.12-hotspot\bin;C:\Program Files\Maven\apache-maven-3.8.6\bin;C:\Users\sheld\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Terraform;C:\Program Files\7-Zip;;."/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.1.12-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Eclipse Adoptium\jdk-17.0.1.12-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\Program Files\gs\gs10.03.0\bin;C:\Ruby32-x64\bin;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.3.3\bin;C:\Users\sheld\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\sheld\AppData\Local\Programs\Python\Python310\;C:\Users\sheld\AppData\Local\Microsoft\WindowsApps;C:\Users\sheld\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.1.12-hotspot\bin;C:\Program Files\Maven\apache-maven-3.8.6\bin;C:\Users\sheld\AppData\Roaming\npm;C:\Program Files\Git\bin;C:\Terraform;C:\Program Files\7-Zip;;c:\Users\sheld\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
     <property name="java.vm.version" value="17.0.1+12"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.physicssimulation.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.physicssimulation.AppTest" time="0.001"/>
 </testsuite>

@@ -18,14 +18,17 @@ public class App {
 
         MoneyDistribution md_with_savings1 = new MoneyDistribution(N, m);
         md_with_savings1.simulate(1000 * N, false, 0.25);
+        md_with_savings1.sort();
         md_with_savings1.plot("Money With Savings", "Agent #", "Money in $", "Lambda = 0.25");
 
         MoneyDistribution md_with_savings2 = new MoneyDistribution(N, m);
         md_with_savings2.simulate(1000 * N, false, 0.5);
+        md_with_savings2.sort();
         md_with_savings2.plot("Money With Savings", "Agent #", "Money in $", "Lambda = 0.5");
 
         MoneyDistribution md_with_savings3 = new MoneyDistribution(N, m);
         md_with_savings3.simulate(1000 * N, false, 0.75);
+        md_with_savings3.sort();
         md_with_savings3.plot("Money With Savings", "Agent #", "Money in $", "Lambda = 0.75");
 
         MoneyDistribution md_with_savings4 = new MoneyDistribution(N, m);
